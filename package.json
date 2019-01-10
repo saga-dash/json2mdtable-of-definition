@@ -1,0 +1,17 @@
+{
+  "name": "json2mdtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "typescript": "3.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "10.12.18"
+  }
+}
